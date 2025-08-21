@@ -4,6 +4,9 @@ Professional Discord bot for automated video processing, magnet link downloading
 
 **Developed by [LeonisDev0](https://github.com/LeonisDev0 Discord: leonis1337 )** 🚀
 
+### Run bot
+python bot.py
+
 ## ✨ Features
 
 ### 🎯 Core Functionality

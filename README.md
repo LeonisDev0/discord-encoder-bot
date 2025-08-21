@@ -215,23 +215,6 @@ UPLOAD_DIR=uploads
 - Monitor console output for real-time issues
 - Use Discord command responses for status
 
-## 🔒 Security
-
-- **Token Protection**: Bot tokens stored in separate files
-- **Input Validation**: Comprehensive input sanitization
-- **Path Security**: Safe file path handling
-- **API Rate Limiting**: Discord API protection
-- **Error Logging**: Secure error information handling
-- **OAuth2 Authentication**: Secure Google Drive access
-
-## 📈 Performance
-
-### Benchmarks
-- **Download Speed**: Up to 100MB/s (depends on network)
-- **Encoding Speed**: 2-5x real-time (depends on hardware)
-- **Upload Speed**: 10-50MB/s (depends on internet)
-- **Concurrent Operations**: Up to 3 simultaneous processes
-
 ### Resource Usage
 - **CPU**: 20-80% during encoding
 - **Memory**: 100MB-2GB depending on video size
@@ -265,38 +248,8 @@ python bot.py
 ```
 
 ## 📞 Support
-**(Discord:  )**
+**(Discord: Leonis1337 )**
 **Developed by [LeonisDev0](https://github.com/LeonisDev0)**
-
-For support and issues:
-1. Check log files in `logs/` directory
-2. Verify external tool installations (FFmpeg, Aria2c)
-3. Review configuration files
-4. Check Discord bot permissions
-5. Verify Google Drive API setup
-
-### Common Support Scenarios
-- **Bot won't start**: Check token and dependencies
-- **Downloads fail**: Verify Aria2c installation
-- **Encoding errors**: Check FFmpeg and file paths
-- **Upload issues**: Verify Google Drive credentials
-
-## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Discord.py** - Modern Discord bot framework
-- **FFmpeg** - Professional video processing
-- **Aria2c** - High-performance download utility
-- **Google Drive API** - Cloud storage integration
-
----
-
-**🎉 Encoder Bot - Professional Video Processing Automation**
-
-*Built with ❤️ for content creators and video enthusiasts*
-
-*For questions, support, or contributions, please contact [LeonisDev0](https://github.com/LeonisDev0)*
 ```
